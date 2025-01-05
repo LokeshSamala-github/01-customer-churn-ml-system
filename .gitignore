@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.duckdb
+*.duckdb.wal
+.DS_Store
+.env
+
+# The DuckDB warehouse file is rebuilt from data/raw/customers.csv on every
+# run (see database.py) -- no need to version a binary derived artifact.
+data/warehouse.duckdb
