@@ -1,0 +1,37 @@
+feature,mean_abs_shap,rank
+contract_Month-to-month,0.7546556,1
+monthly_charges,0.40714696,2
+tenure_months,0.23538283,3
+contract_Two year,0.19018315,4
+support_calls_last_90d,0.15800755,5
+payment_method_Electronic check,0.106516264,6
+contract_One year,0.06499206,7
+unresolved_ticket_last_90d,0.061748452,8
+avg_historical_monthly_spend,0.047494084,9
+spend_trend,0.04406817,10
+internet_service_Fiber optic,0.039687835,11
+total_charges,0.031502377,12
+online_security_Yes,0.025098868,13
+online_security_No,0.024681661,14
+addon_count,0.024459949,15
+internet_service_No,0.020727873,16
+partner_No,0.0065088426,17
+tech_support_Yes,0.0063660354,18
+paperless_billing_No,0.005386542,19
+tenure_bucket_established_1_2y,0.005365738,20
+senior_citizen,0.002885508,21
+dependents_No,0.002420133,22
+tech_support_No,0.002284286,23
+internet_service_DSL,0.0014625617,24
+tenure_bucket_ramping_6_12m,0.0013292768,25
+tech_support_No internet service,0.00061902945,26
+is_high_support_volume,0.0,27
+tenure_bucket_loyal_2y_plus,0.0,28
+tenure_bucket_new_0_6m,0.0,29
+payment_method_Bank transfer,0.0,30
+payment_method_Credit card,0.0,31
+payment_method_Mailed check,0.0,32
+paperless_billing_Yes,0.0,33
+online_security_No internet service,0.0,34
+partner_Yes,0.0,35
+dependents_Yes,0.0,36
